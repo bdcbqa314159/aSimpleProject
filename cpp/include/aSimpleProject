@@ -1,0 +1,6 @@
+#ifndef A_SIMPLE_PROJECT_LIBRARY_H // update here
+#define A_SIMPLE_PROJECT_LIBRARY_H
+
+#include "aSimpleProject_bits/standard.hpp"
+
+#endif
